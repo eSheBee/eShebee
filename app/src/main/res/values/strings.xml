@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">ESheBee</string>
+    <string name="product_name" translatable="false">পণ্যের নাম নির্বাচন করুন:</string>
+    <string name="product_catagory" translatable="false">পণ্যের ধরণ নির্বাচন করুন:</string>
+    <string name="product_spacification" translatable="false">পণ্যের উপ নির্বাচন করুন  :</string>
+    <string name="select_button" translatable="false">বাছাই করুন</string>
+    <string name="hint_product_name" translatable="false">পণ্যের নাম</string>
+    <string name="hint_product_catagory" translatable="false">পণ্যের ধরন</string>
+    <string name="hint_product_sub_catagory" translatable="false">পণ্যের বিবরণ</string>
+    <string name="about_product_confirmation" translatable="false">save করুন </string>
+    <string name="nextpage" translatable="false">পরবর্তী পৃষ্ঠায় যান </string>
+    <string name="product_add_button" translatable="false">add </string>
+    <string name="add_your_part" translatable="false">পণ্যের অংশ যুক্ত করুন </string>
+    <string name="product_add_cancel_button" translatable="false">cancel </string>
+    <string name="product_select__button" translatable="false">select </string>
+    <string name="user_product_save__button" translatable="false">save </string>
+    <string name="user_product_cancel__button" translatable="false">cancel </string>
+    <string name="pproduct_part" translatable="false">পণ্যের অংশ নির্বাচন করুন </string>
+    <string name="body" translatable="false">body </string>
+    <string name="handle" translatable="false">handle </string>
+    <string name="zipper" translatable="false">zipper </string>
+    <string name="gazet" translatable="false">gazet </string>
+    <string name="submit" translatable="false">সংরক্ষণ </string>
+</resources>
